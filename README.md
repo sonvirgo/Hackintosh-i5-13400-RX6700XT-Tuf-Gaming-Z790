@@ -5,3 +5,4 @@ RX6700XT Hackintosh
 
 ![image](https://github.com/sonvirgo/Hackintosh-i5-13400-RX6700XT-Tuf-Gaming-Z790/assets/10823037/c2e6eed5-bdd4-4270-be43-c269731571ca)
 ![image](https://github.com/sonvirgo/Hackintosh-i5-13400-RX6700XT-Tuf-Gaming-Z790/assets/10823037/3e057342-0cd6-44f9-a984-8d43a08ef351)
+![image](https://github.com/sonvirgo/Hackintosh-i5-13400-RX6700XT-Tuf-Gaming-Z790/assets/10823037/797a70f5-3cec-43c3-a870-7bb89ec8dec7)
